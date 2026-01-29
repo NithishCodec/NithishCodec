@@ -27,6 +27,11 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.dribbble.com/userupload/42401040/file/original-86241dcbad1e068b61633e8a8adc3444.gif"  />
+<img 
+  src="https://cdn.dribbble.com/userupload/42401040/file/original-86241dcbad1e068b61633e8a8adc3444.gif"
+  align="right"
+  style="width:100%; height:100%; object-fit:cover;"
+/>
+
 
 ###
